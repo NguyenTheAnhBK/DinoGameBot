@@ -12,5 +12,7 @@ Light-dependent resister to detect gray and servo to press space key
 ## Part 2
 Light-dependent resister to detect gray and python code to press space key
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wxHjPzSWd3c/0.jpg)](https://www.youtube.com/watch?v=wxHjPzSWd3c)
+
 ## Part 3
 Python code bot
